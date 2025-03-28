@@ -273,7 +273,6 @@ return {
         'shellcheck',
         'shfmt',
         'sql-formatter',
-        'sqlfluff',
         'vtsls',
         'vue-language-server',
         'yaml-language-server',
