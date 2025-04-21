@@ -268,8 +268,6 @@ return {
         'markdown-toc',
         'markdownlint',
         'marksman',
-        'prettier',
-        'prettierd',
         'shellcheck',
         'shfmt',
         'sql-formatter',
